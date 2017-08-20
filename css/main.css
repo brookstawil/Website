@@ -37,7 +37,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #FFFFFF;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -236,7 +236,7 @@ a:after {
 
 #footwrap i {
 	padding-right: 8px;
-	color: #1abc9c;
+	color: #335578;
 }
 
 /* Copyright Wrap */
@@ -250,7 +250,6 @@ a:after {
 #c p {
 	color: white
 }
-
 
 
 /* Global Values */
@@ -278,6 +277,9 @@ a:after {
 	color: #95a5a6;
 }
 
+.bigicon {
+	font-size: 32px;
+}
 
 sm {
 	font-size: 12px;
