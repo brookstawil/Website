@@ -215,6 +215,11 @@ a:after {
 	color: white;
 }
 
+#skillswrap h1 {
+	font-size: 60px;
+	color: white;
+}
+
 #skillswrap h5, p {
 	color: white;
 }
